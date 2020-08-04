@@ -7,6 +7,7 @@
     - Firebase Hosting (for deployment) 🚀
 
 Alert ⚠ 
+
     - My main motive in building this app was to learn Vuetify 📖
     - Therefore, my focus was only on the design aspect
     - I have not implemented Authentication functionality 🔐
