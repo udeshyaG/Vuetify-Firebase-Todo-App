@@ -1,19 +1,14 @@
-# vuetify-todo-app
+# [Click Here](https://vuetify-project-1d871.firebaseapp.com/) to view app 💖
 
-## Project setup
-```
-npm install
-```
+## Technology Used
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    - Vue JS (front end framework) 🙂
+    - Vuetify (VueJS library for Material Design) 🌟
+    - Firestore (NoSQL database provided by Firebase) 🏬
+    - Firebase Hosting (for deployment) 🚀
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Alert ⚠ - My main motive in building this app was to learn Vuetify 📖 - Therefore, my focus was only on the design aspect
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    - I have not implemented Authentication functionality 🔐
+    - I will do so in future commits
+    - Please feel free to fork this repo and continue the good work 🌎
